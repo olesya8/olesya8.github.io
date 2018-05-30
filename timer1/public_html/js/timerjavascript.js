@@ -1,7 +1,7 @@
 $(document).ready(function () {
     
     function get_timer () {
-        var date_new = "May30,2018 13:30";
+        var date_new = "May30,2019 13:30";
         var date_t = new Date(date_new);
         var date = new Date;
         var timer = date_t - date;
